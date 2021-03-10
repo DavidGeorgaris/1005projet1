@@ -1,0 +1,81 @@
+header.img{
+  float: left;
+}
+
+
+nav{
+  text-align: right;
+  margin-top: 5%;
+}
+
+
+
+
+nav a{
+  text-decoration: none;
+  color: black;
+  transition: 0.2s;
+}
+
+nav a:hover{
+color: lightblue;
+}
+
+body > div{
+  border-style: dashed;
+}
+
+
+.TopOfHome{
+
+}
+
+.FormHome{
+
+}
+
+.HomeStats{
+
+}
+
+/* NOTE:  */
+.HDIW{
+  overflow: auto;
+  margin-right: 500px;
+
+}
+
+.HDIWleft{
+  float:left;
+}
+
+.HDIWright{
+  float:right;
+}
+
+/* NOTE: Section Premium */
+.PremiumSection{
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+.PremiumTitle{
+  text-align: center;
+}
+
+.PremiumPlans{
+  padding-right: 15% ;
+  padding-left: 15%;
+}
+
+.YearlyPlan{
+  float:left;
+  text-align: center;
+}
+
+.LifetimePlan{
+  float:right;
+  text-align: center;
+}
+
+/* NOTE:  */
